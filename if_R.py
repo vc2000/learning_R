@@ -12,4 +12,6 @@ for i in num:
 print(num[0])
 
 # R
+#x =seq(1,100,1)
+#s=c()
 #for(i in x){if(x[i]<5 or x[i]>90){s[i]=x[i]*10}else{s[i]=x[i]*0.1}}
